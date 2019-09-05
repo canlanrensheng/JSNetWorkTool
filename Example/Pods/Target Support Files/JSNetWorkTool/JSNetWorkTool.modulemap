@@ -1,0 +1,6 @@
+framework module JSNetWorkTool {
+  umbrella header "JSNetWorkTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

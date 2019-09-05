@@ -1,0 +1,27 @@
+{
+  "name": "JSNetWorkTool",
+  "version": "1.0.0",
+  "summary": "A short description of JSNetWorkTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/canlanrensheng/JSNetWorkTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "canlanrensheng": "2649154231@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/canlanrensheng/JSNetWorkTool.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSNetWorkTool/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}
