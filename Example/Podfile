@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JSNetWorkTool_Tests' do
+  pod 'JSNetWorkTool', :path => '../'
+  
+  
+end
